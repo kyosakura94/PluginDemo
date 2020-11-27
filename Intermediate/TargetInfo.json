@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "PluginDemoProject",
+			"Path": "D:\\Game\\Unreal\\PluginDemoProject\\Source\\PluginDemoProject.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "PluginDemoProjectEditor",
+			"Path": "D:\\Game\\Unreal\\PluginDemoProject\\Source\\PluginDemoProjectEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

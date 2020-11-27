@@ -1,0 +1,14 @@
+﻿  Parsing headers for PluginDemoProjectEditor
+    Running UnrealHeaderTool "D:\Game\Unreal\PluginDemoProject\PluginDemoProject.uproject" "D:\Game\Unreal\PluginDemoProject\Intermediate\Build\Win64\PluginDemoProjectEditor\Development\PluginDemoProjectEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for PluginDemoProjectEditor in 4.9737436 seconds
+  Building PluginDemoProjectEditor...
+  Using Visual Studio 2017 14.16.27035 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 4 actions with 8 processes...
+    [1/4] Module.PluginDemo.cpp
+    [2/4] UE4Editor-PluginDemo.lib
+       Creating library D:\Game\Unreal\PluginDemoProject\Plugins\PluginDemo\Intermediate\Build\Win64\UE4Editor\Development\PluginDemo\UE4Editor-PluginDemo.lib and object D:\Game\Unreal\PluginDemoProject\Plugins\PluginDemo\Intermediate\Build\Win64\UE4Editor\Development\PluginDemo\UE4Editor-PluginDemo.exp
+    [3/4] UE4Editor-PluginDemo.dll
+       Creating library D:\Game\Unreal\PluginDemoProject\Plugins\PluginDemo\Intermediate\Build\Win64\UE4Editor\Development\PluginDemo\UE4Editor-PluginDemo.suppressed.lib and object D:\Game\Unreal\PluginDemoProject\Plugins\PluginDemo\Intermediate\Build\Win64\UE4Editor\Development\PluginDemo\UE4Editor-PluginDemo.suppressed.exp
+    [4/4] PluginDemoProjectEditor.target
+  Total time in Parallel executor: 1.56 seconds
+  Total execution time: 7.03 seconds

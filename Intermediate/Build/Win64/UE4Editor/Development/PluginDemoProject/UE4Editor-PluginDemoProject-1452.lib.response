@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-PluginDemoProject-1452.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Game\Unreal\PluginDemoProject\Intermediate\Build\Win64\PluginDemoProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Game\Unreal\PluginDemoProject\Intermediate\Build\Win64\UE4Editor\Development\PluginDemoProject\PluginDemoProject.cpp.obj"
+"D:\Game\Unreal\PluginDemoProject\Intermediate\Build\Win64\UE4Editor\Development\PluginDemoProject\PluginDemoProjectGameModeBase.cpp.obj"
+"D:\Game\Unreal\PluginDemoProject\Intermediate\Build\Win64\UE4Editor\Development\PluginDemoProject\PluginDemoProject.init.gen.cpp.obj"
+"D:\Game\Unreal\PluginDemoProject\Intermediate\Build\Win64\UE4Editor\Development\PluginDemoProject\PluginDemoProjectGameModeBase.gen.cpp.obj"
+"D:\Game\Unreal\PluginDemoProject\Intermediate\Build\Win64\UE4Editor\Development\PluginDemoProject\Default.rc2.res"
+/OUT:"D:\Game\Unreal\PluginDemoProject\Intermediate\Build\Win64\UE4Editor\Development\PluginDemoProject\UE4Editor-PluginDemoProject-1452.lib"
+/INCLUDE:IMPLEMENT_MODULE_PluginDemoProject

@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\PluginDemoProject.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{04F67F43-62B0-4219-BAE1-F9DC8DDCC890}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\PluginDemoProject.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\PluginDemoProjectEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{7FEB824B-0DD4-4CD6-A0A0-9D50FE412F25}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Plugins">
+      <UniqueIdentifier>{B289697B-7EB3-41AC-BBB6-836BD4EFB7EB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\PluginDemo">
+      <UniqueIdentifier>{7EC8E09F-449A-4670-AB19-815FD8F01301}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\PluginDemo\Source">
+      <UniqueIdentifier>{538759DE-9331-4F24-BD9E-CB658C3EEDE9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\PluginDemo\Source\PluginDemo">
+      <UniqueIdentifier>{FD884312-D5AD-474F-9BF5-FAFFF9DAA0C6}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\PluginDemo\Source\PluginDemo\PluginDemo.Build.cs">
+      <Filter>Plugins\PluginDemo\Source\PluginDemo</Filter>
+    </None>
+    <Filter Include="Plugins\PluginDemo\Source\PluginDemo\Private">
+      <UniqueIdentifier>{F93D706D-3B74-4FB3-AF5D-5E17AF12EAAE}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\PluginDemo\Source\PluginDemo\Private\MyActor.cpp">
+      <Filter>Plugins\PluginDemo\Source\PluginDemo\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\PluginDemo\Source\PluginDemo\Private\PluginDemo.cpp">
+      <Filter>Plugins\PluginDemo\Source\PluginDemo\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\PluginDemo\Source\PluginDemo\Public">
+      <UniqueIdentifier>{D79474D1-7D1E-4398-B06A-5B6AAB9D14E9}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\PluginDemo\Source\PluginDemo\Public\MyActor.h">
+      <Filter>Plugins\PluginDemo\Source\PluginDemo\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\PluginDemo\Source\PluginDemo\Public\PluginDemo.h">
+      <Filter>Plugins\PluginDemo\Source\PluginDemo\Public</Filter>
+    </ClInclude>
+    <None Include="..\..\Plugins\PluginDemo\PluginDemo.uplugin">
+      <Filter>Plugins\PluginDemo</Filter>
+    </None>
+    <Filter Include="Plugins\PluginDemo\Resources">
+      <UniqueIdentifier>{4FB76A3E-FD9B-4D75-A9C3-0879B29A1CDF}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\PluginDemo\Resources\Icon128.png">
+      <Filter>Plugins\PluginDemo\Resources</Filter>
+    </None>
+    <Filter Include="Source\PluginDemoProject">
+      <UniqueIdentifier>{E246E3B8-DCE0-44E1-A019-DC495D849CCA}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\PluginDemoProject\PluginDemoProject.Build.cs">
+      <Filter>Source\PluginDemoProject</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\PluginDemoProject\PluginDemoProject.cpp">
+      <Filter>Source\PluginDemoProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PluginDemoProject\PluginDemoProject.h">
+      <Filter>Source\PluginDemoProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PluginDemoProject\PluginDemoProjectGameModeBase.cpp">
+      <Filter>Source\PluginDemoProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PluginDemoProject\PluginDemoProjectGameModeBase.h">
+      <Filter>Source\PluginDemoProject</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

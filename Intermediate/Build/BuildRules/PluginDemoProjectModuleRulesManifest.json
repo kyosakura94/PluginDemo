@@ -1,0 +1,9 @@
+{
+	"SourceFiles": [
+		"D:\\Game\\Unreal\\PluginDemoProject\\Source\\PluginDemoProject\\PluginDemoProject.Build.cs",
+		"D:\\Game\\Unreal\\PluginDemoProject\\Plugins\\PluginDemo\\Source\\PluginDemo\\PluginDemo.Build.cs",
+		"D:\\Game\\Unreal\\PluginDemoProject\\Source\\PluginDemoProject.Target.cs",
+		"D:\\Game\\Unreal\\PluginDemoProject\\Source\\PluginDemoProjectEditor.Target.cs"
+	],
+	"EngineVersion": "4.24.2"
+}

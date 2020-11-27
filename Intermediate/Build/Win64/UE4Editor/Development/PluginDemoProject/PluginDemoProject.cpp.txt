@@ -1,0 +1,2 @@
+D:\Game\Unreal\PluginDemoProject\Intermediate\Build\Win64\UE4Editor\Development\PluginDemoProject\Definitions.PluginDemoProject.h
+d:\game\unreal\plugindemoproject\source\plugindemoproject\PluginDemoProject.h
