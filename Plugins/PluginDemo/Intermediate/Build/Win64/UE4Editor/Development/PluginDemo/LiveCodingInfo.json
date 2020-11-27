@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.PluginDemo.cpp.obj": [
+			"MyActor.cpp.obj",
+			"PluginDemo.cpp.obj"
+		],
+		"Module.PluginDemo.gen.cpp.obj": [
+			"MyActor.gen.cpp.obj",
+			"PluginDemo.init.gen.cpp.obj"
+		]
+	}
+}
